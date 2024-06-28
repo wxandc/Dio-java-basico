@@ -1,4 +1,6 @@
-# Variaveis e metodos
+# java basico
+
+## Variaveis e metodos
 
 Uma variavel e repesentada por um tipo, um nome bem definido = ao um valor atribuido ou não.
 
@@ -17,5 +19,6 @@ int soma (int numeroUm, int numeroDois)
 
 string formatarCep (long cep)
 ```
+## Identação
 
-a continuar
+
