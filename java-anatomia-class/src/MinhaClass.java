@@ -6,7 +6,7 @@ public class MinhaClass {
 
         int anoNascimento = 1989;
 
-        boolean verdadeira =true;
+        boolean verdadeira = true;
 
         String nomeCompleto = nomeCompleto (meuNome,sobreNome);
 
