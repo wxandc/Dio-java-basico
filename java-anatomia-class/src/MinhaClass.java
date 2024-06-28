@@ -14,6 +14,5 @@ public class MinhaClass {
     }
     public static String nomeCompleto (String meuNome, String sobreNome){
         return meuNome.concat(" ").concat(sobreNome);
-
     }
 }
