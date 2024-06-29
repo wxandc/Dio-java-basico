@@ -1,3 +1,4 @@
+package ConteudoOrganizado.Exercicios;
 public class IdentacaoCass {
     public static void main(String[] args) {
         //variaveis

@@ -1,3 +1,4 @@
+package ConteudoOrganizado.Aula02;
 // exeplo do aula 4
 public class BoletimEstudantil {
     public static void main(String[] args) {

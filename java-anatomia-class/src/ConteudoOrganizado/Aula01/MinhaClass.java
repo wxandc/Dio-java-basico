@@ -1,3 +1,4 @@
+package ConteudoOrganizado.Aula01;
 public class MinhaClass {
     public static void main(String[] args) {
         String meuNome = "William";
