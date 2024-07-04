@@ -7,6 +7,8 @@ public class MinhaClass {
         boolean verdadeira = true;
         String nomeCompleto = nomeCompleto (meuNome,sobreNome);
         System.out.println(nomeCompleto);
+        System.out.println(2024-anoNascimento);
+        System.out.println(verdadeira);
     }
     public static String nomeCompleto (String meuNome, String sobreNome){
         return meuNome.concat(" ").concat(sobreNome);
