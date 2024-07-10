@@ -14,7 +14,7 @@ public class TiposDeVariaveis {
     //Logo;
     long numerosExp4 = 9223372036854775807L;
     //Para numeros fracionados usamos:
-    //float - E representação para variaveis com -3,4028E+38 de capacidade;
+    //float - E representação para variaveis com -3,4028E+38 de capacidade + o sufixo (F);
     //Logo;
     float numerosExp5 = 3.14F;
     //double - E representação para variaveis com -1,7976E+308 de capacidade;
