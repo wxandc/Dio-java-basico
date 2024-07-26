@@ -19,6 +19,20 @@ public class Usuario {
         smartTv.diminuirVolume();
         smartTv.aumentarVolume();
         smartTv.statusTv();
+        smartTv.mudarVolume(35);
+        smartTv.statusTv();
+
+        smartTv.subirCanal();
+        smartTv.subirCanal();
+        smartTv.subirCanal();
+        smartTv.subirCanal();
+        smartTv.decerCanal();
+        smartTv.subirCanal();
+        smartTv.subirCanal();
+        smartTv.statusTv();
+        smartTv.mudarCanal(12);
+        smartTv.statusTv();
+
 
 
     }
