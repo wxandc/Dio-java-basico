@@ -4,6 +4,12 @@ public class SmartTv {
     int canal = 1;
     int volume = 10;
 
+    public void estadoNeutro(){
+        ligada = false;
+        canal = 1;
+        volume = 10;
+    }
+
     public void statusTv(){
         System.out.println("Bem vindo a sua Tv Smart");
         System.out.println("O Stado da sua Tv e:");
@@ -40,6 +46,10 @@ public class SmartTv {
     public void mudarCanal(int novoCanal){
         canal = novoCanal;
         System.out.println("canal em " + canal);
+    }
+    public void resetConfiguracoes(boolean ligadoDesligado){
+        ligada = (ligadoDesligado=false);
+
     }
     
 }
