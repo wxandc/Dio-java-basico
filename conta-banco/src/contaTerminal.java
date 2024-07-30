@@ -3,11 +3,11 @@ import java.util.Scanner;
 
 public class contaTerminal {
     public static void main(String[] args) {
-        
+                
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
         System.out.println("Digite sua conta");
-        double conta = scanner.nextInt();
+        int conta = scanner.nextInt();
 
         System.out.println("Digite sua agencia");
         String agencia = scanner.next();
